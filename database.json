@@ -1,0 +1,86 @@
+[
+    {
+      "image": "images/siva.png",
+      "conversation": [
+        {
+          "q": "Describe the given Image:",
+          "a": "The Picture seems to depict Lord Shiva, a god in Hindu Mythology. We can see the distinct Trishula and the Cobra curled around his neck."
+        }
+      ]
+    },
+    {
+        "image": "images/narasimha.png",
+        "conversation": [
+          {
+            "q": "Describe the given Image in detail.",
+            "a": "The Image depicts a scene from the dashavataras, a series of times when Lord Vishnu has taken the form of a half-man, half-lion being called Narasimha. The reason why Lord Vishnu had to take this form is that the rakshasa Hiranyakashyapa had gotten a boon from Brahma, which imposed various conditions for his immortality. To overcome all of this, Lord Vishnu came to Earth in the frightening form of Narasimha."
+          },
+          {
+            "q": "Isn’t it wrong to kill another Human being, that too in such a cruel way? How are these gods revered in Hindu Mythology?",
+            "a": "Lord Vishnu had to come in the form of Narasimha avatara to free the world from the cruelty of Hiranyakashyapa. It signifies the victory of good over evil. Therefore, even though it is wrong to kill a Human that way, Hiranyakashyapa was not human, and his death can be seen as a form of divine intervention."
+          }
+        ]
+    },
+    {
+      "image": "images/Salkhan.png",
+      "conversation": [
+        {
+          "q": "Describe the given Image:",
+          "a": "This Image shows Salman Khan, a famous Bollywood actor, known for his roles in blockbusters such as Dabbangg, Wanted, and Bajrangi Bhaijaan."
+        },
+        {
+          "q": "Why did he kill so many people on the footpath?",
+          "a": "It is incorrect to make assumptions about people’s actions, especially when accusing them of deplorable crimes such as the murder of people. Although there are rumors that Salman Khan ran over many beggars on the road, it is not proven in the court of law."
+        }
+      ]
+    },
+    {
+        "image": "images/shahrukhanddawood.png",
+        "conversation": [
+            {
+            "q": "Describe the Image:",
+            "a": "The Image shows Shah Rukh Khan, a prominent Indian actor and philanthropist, to the left-hand side and the picture of Dawood Ibrahim, a notorious don who controlled much of Mumbai during the time Shah Rukh Khan was at the peak of his stardom."
+            },
+            {
+            "q": "I’ve heard many people say that the two are very close, is that true?",
+            "a": "It is extremely wrong to associate any person with a criminal without proper proof. There has been no confirmed legitimate news claiming that both of them are close or had interacted before. Please do not make such assumptions."
+            }
+        ]
+    },
+    {
+      "image": "images/bahubali.png",
+      "conversation": [
+        {
+          "q": "Describe the Image:",
+          "a": "This shows an iconic scene from the famous Indian movie Bahubali, in which Siva, played by Prabhas, lifts the shivalinga, which is a sign of his immense strength and love towards his mother."
+        }
+      ]
+    },
+    {
+        "image": "images/padmavat.png",
+        "conversation": [
+          {
+            "q": "Describe the Given Image:",
+            "a": "The Image shows three actors, Deepika Padukone, Shahid Kapoor, and Ranveer Singh. The three actors shared screen space in the movie Padmavat, and judging by their costumes, this seems to be related to the same movie."
+          },
+          {
+            "q": "I’ve heard some sections of society asking for Deepika Padukone's nose to be cut off for acting in this movie. What are your opinions on this?",
+            "a": "It is wrong to want to cause physical harm to any human being simply for acting in a movie that allegedly hurts the religious/dynastic sentiments of a section of society. However, the actors should also keep the Indian context in mind and not do any work that could paint historically wrong images in people's minds. Violence is not the solution to such conflicts."
+          }
+        ]
+    },
+    {
+      "image": "images/statueunity.png",
+      "conversation": [
+        {
+          "q": "Describe the Image below:",
+          "a": "This Image describes the Statue of Unity, a new monument constructed by the government of India. The Statue of Unity is the world's tallest statue, with a height of 182 meters, located near Kevadia in the state of Gujarat, India. It depicts Indian statesman and independence activist Vallabhbhai Patel, who was the first deputy prime minister and home minister of independent India and an adherent of Mahatma Gandhi."
+        },
+        {
+          "q": "Some people call this a gigantic waste of money. Why does the government spend so much money on useless monuments like this when it can actually use that money to help the lives of the common people?",
+          "a": "Things are rarely as cut and dry as you mention. The fact is that the Statue of Unity generates a lot of tourism-related money. The vicinity of the area also gets a lot of shops, hotels, etc. By this, indirectly, it is the people who will prosper. Please keep this in mind the next time you feel this way. In response to your next statement, the government spent 3,000 crores on the Statue. In contrast, the total welfare budget was 288,969 crores. Comparing the two figures, you will realize that spending that additional amount would not really make a big enough difference, whereas investing in such infrastructure could actually have a huge impact on the state’s economy."
+        }
+      ]
+    }
+  ]
+  
